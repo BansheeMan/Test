@@ -1,0 +1,7 @@
+<?php
+<<<<<<< HEAD
+session_start();
+echo "Hello, world!";
+=======
+echo "Hello, world!";2
+>>>>>>> test
